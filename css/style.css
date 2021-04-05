@@ -1,0 +1,18 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
+
+/* RESET PAGE */
+*{
+	margin: 0px;
+	padding: 0px;
+	outline: 0px;
+	font-size: 100%;
+	background: transparent;
+	box-sizing: border-box;
+	color: #000;
+}
+body{
+	overflow: scroll;  /* Sempre aparece a barra de rolagem. */
+	overflow-x: hidden /* Não aparece a a barra horizontal.  */
+        font-family: 'Chakra Petch', sans-serif;
+}
